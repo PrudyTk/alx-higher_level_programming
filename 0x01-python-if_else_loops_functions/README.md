@@ -14,3 +14,6 @@ Task 10 a + b
 Task 11 a ^ b
 Task 12 Fizz Buzz
 Task 13 Insert in sorted linked list
+Task 14 Insert in sorted linked list
+Task 15 Smile in the mirror
+Task 16 ByteCode -> Python #2
